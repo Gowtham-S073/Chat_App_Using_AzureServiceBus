@@ -25,11 +25,11 @@ This project presents a simple chat application using publish/subscribe messagin
 
 #### **Steps:**
 
-Create a topic and subscriptions programmatically using code.
-Create a Service Bus client and sender to send messages to the topic.
-Create a message processor to receive and process messages from the subscription.
-Implement chat functionality in a while loop to send and receive messages.
-Handle message processing and errors.
+1. Create a topic and subscriptions programmatically using code.
+2. Create a Service Bus client and sender to send messages to the topic.
+3. Create a message processor to receive and process messages from the subscription.
+4. Implement chat functionality in a while loop to send and receive messages.
+5. Handle message processing and errors.
 
 #### **Required Packages:**
 - <em>Azure.Messaging.ServiceBus</em><br><br>
